@@ -1,6 +1,7 @@
 import java.util.HashMap;
 import java.util.Iterator;
-import java.util.Map;
+import java.util.Map; 
+#Map Class
 import java.util.Scanner;
 
 /*
